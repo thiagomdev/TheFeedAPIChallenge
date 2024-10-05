@@ -1,0 +1,37 @@
+{
+  "configurations" : [
+    {
+      "id" : "C0F7DD70-64F4-4FE6-B0E5-4B7FEA754953",
+      "name" : "Test Scheme Action",
+      "options" : {
+
+      }
+    }
+  ],
+  "defaultOptions" : {
+    "codeCoverage" : {
+      "targets" : [
+        {
+          "containerPath" : "container:ChallengeAPIFeedLoader.xcodeproj",
+          "identifier" : "AA30F4092CB1E66700B6CC3F",
+          "name" : "ChallengeAPIFeedLoader"
+        }
+      ]
+    },
+    "targetForVariableExpansion" : {
+      "containerPath" : "container:ChallengeAPIFeedLoader.xcodeproj",
+      "identifier" : "AA30F4092CB1E66700B6CC3F",
+      "name" : "ChallengeAPIFeedLoader"
+    }
+  },
+  "testTargets" : [
+    {
+      "target" : {
+        "containerPath" : "container:ChallengeAPIFeedLoader.xcodeproj",
+        "identifier" : "AA30F4112CB1E66700B6CC3F",
+        "name" : "ChallengeAPIFeedLoaderTests"
+      }
+    }
+  ],
+  "version" : 1
+}
