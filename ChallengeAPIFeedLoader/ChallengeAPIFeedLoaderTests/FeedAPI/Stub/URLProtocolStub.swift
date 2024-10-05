@@ -1,10 +1,3 @@
-//
-//  URLProtocolStub.swift
-//  EssentialFeed
-//
-//  Created by Thiago Monteiro on 09/09/24.
-//
-
 import Foundation
 
 final class URLProtocolStub: URLProtocol {

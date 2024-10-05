@@ -1,10 +1,3 @@
-//
-//  RemoteFeedLoaderTests.swift
-//  EssentialFeedTests
-//
-//  Created by Thiago Monteiro on 15/08/24.
-//
-
 import XCTest
 import ChallengeAPIFeedLoader
 

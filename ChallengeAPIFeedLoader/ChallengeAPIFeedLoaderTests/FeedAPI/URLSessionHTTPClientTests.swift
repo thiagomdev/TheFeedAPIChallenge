@@ -1,10 +1,3 @@
-//
-//  URLSessionHTTPClientTests.swift
-//  EssentialFeedTests
-//
-//  Created by Thiago Monteiro on 05/09/24.
-//
-
 import XCTest
 import ChallengeAPIFeedLoader
 
